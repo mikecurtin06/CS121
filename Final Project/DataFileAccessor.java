@@ -83,6 +83,9 @@ public class DataFileAccessor extends FileAccessor{
         catch (Exception e) {
             e.getMessage();
         }
+        catch (NumberFormatException e){
+            throw new DataFileProcessingException("Encountered non-numeric data: " + line);
+        }
     }
 
     /*
@@ -97,12 +100,12 @@ public class DataFileAccessor extends FileAccessor{
     // Return the first series name.
     public String getSeriesOneName(){
         // TODO: implement this method
-        return null;
+        return seriesOneName;
     }
 
     // Return the second series name.
     public String getSeriesTwoName(){
         // TODO: implement this method
-        return null;
+        return seriesTwoName;
     }
 }
