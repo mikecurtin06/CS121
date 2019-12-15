@@ -1,4 +1,4 @@
-!1513;s
+!1840;s
 J
 SAU0JGRASP_MAIN_BOUNDS=%<CONTROL_SHELL_BOUNDS>\012PATH+=%<JGRASP_PATHS>%;\012PATH=+%;%<JGRASP_C_PATHS>\012CYGWIN=nodosfilewarning\012GCC_COLORS=\012-Run\012ADD_EXE_PATH==Y\012
 SCU0JGRASP_MAIN_BOUNDS=%<CONTROL_SHELL_BOUNDS>\012PATH+=%<JGRASP_PATHS>%;\012PATH=+%;%<JGRASP_C_PATHS>\012CYGWIN=nodosfilewarning\012GCC_COLORS=\012-Run\012ADD_EXE_PATH==Y\012
@@ -9,19 +9,28 @@ SOU0JGRASP_MAIN_BOUNDS=%<CONTROL_SHELL_BOUNDS>\012PATH+=%<JGRASP_PATHS>%;\012PAT
 SyU0JGRASP_MAIN_BOUNDS=%<CONTROL_SHELL_BOUNDS>\012PATH+=%<PYTHON_PATH>%;\012PATH+=%<JGRASP_PATHS>%;\012CYGWIN=nodosfilewarning\012GCC_COLORS=
 SPU0
 s#i0
-s#k0
-s#j0
+s#k0/Users/michaelcurtin/Documents/Soph Yr/CompSci 121/Project - jGrasp/Final Project/lib/jcommon-1.0.23.jar\000\012/Users/michaelcurtin/Documents/Soph Yr/CompSci 121/Project - jGrasp/Final Project/lib/jfreechart-1.0.19.jar\000
+s#j0/Users/michaelcurtin/Documents/Soph Yr/CompSci 121/Project - jGrasp/Final Project/lib/jcommon-1.0.23.jar
 s#l0
-!84;u
-a1	b68	c255	f%\011FileRelations.jar	g%\011FileRelations.zip	hManifest-Version\0111.0!65;g
-%\011FileRelationsMain.java
-%\011FileRelations.java
-%\011files%s
-!65;f
-%\011FileRelationsMain.java
-%\011FileRelations.java
-%\011files%s
-!28;l
-%\011FileRelationsTest.java
-!147;t
-jgrJUnit0xr	%\011FileRelations.java	1571292543253:F%\011FileRelationsTest.java	%\011FileRelationsTest.java	1571292543253:F%\011FileRelations.java	
+!356;u
+a1	b68	c255	e%\\011data%sAmherstTempData.csv\011%\\011data%stest1.csv\011%\\011data%stest2.csv\011%\\011data%stest3.csv\011%\\011data%stest4.csv\011%\\011jFreeChartLibs-HOWTO.txt\011%\\011lib%sjcommon-1.0.23.jar\011%\\011lib%sjfreechart-1.0.19.jar	f%\011Final Project Data Vis- Starter.jar	g%\011Final Project Data Vis- Starter.zip	hManifest-Version\0111.0!197;g
+%\011LineChart.java
+%\011CategoryDataModel.java
+%\011DataFileProcessingException.java
+%\011DataFileAccessor.java
+%\011BarChart.java
+%\011FileAccessor.java
+%\011TempData.java
+%\011TempDataMain.java
+!197;f
+%\011LineChart.java
+%\011CategoryDataModel.java
+%\011DataFileProcessingException.java
+%\011DataFileAccessor.java
+%\011BarChart.java
+%\011FileAccessor.java
+%\011TempData.java
+%\011TempDataMain.java
+!63;l
+%\011CategoryDataModelTest.java
+%\011DataFileAccessorTest.java
